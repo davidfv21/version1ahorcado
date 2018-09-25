@@ -69,7 +69,7 @@ public class ahorcado1 extends javax.swing.JFrame {
 
     public ahorcado1(JTextField texto) {
 
-        this.oculta = Random.toCharArray;
+        this.oculta = Random[].toCharArray();
         String linea = "";
         //llena un string con "_"
         for (int i = 0; i <= this.oculta.length - 1; i++) {
